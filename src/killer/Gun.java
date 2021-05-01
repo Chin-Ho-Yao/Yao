@@ -7,6 +7,7 @@ public class Gun implements Weapon{
 	public void act() {
 		System.out.println("Bang!!!");
 		
+		
 	}
 
 }

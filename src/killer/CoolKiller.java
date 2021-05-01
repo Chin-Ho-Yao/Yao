@@ -5,6 +5,8 @@ public class CoolKiller implements Killer{
 	
 	public CoolKiller(Weapon weapon) {
 		this.weapon = weapon;
+		
+		
 	}
 	
 	
